@@ -1,0 +1,18 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0787819,
+          "lon": -96.7444669000000296
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "This is a basic POI"
+      }
+    }], 
+  "layer": "CentrosComerciales"
+}
